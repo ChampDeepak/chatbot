@@ -1,0 +1,80 @@
+# System Architecture Overview
+
+---
+
+## High-Level Architecture
+
+ClearPath uses a microservices architecture deployed on AWS.
+
+**Key components:**
+- React frontend
+- Node.js API servers
+- PostgreSQL database
+- Redis cache
+- S3 storage
+
+---
+
+## Frontend
+
+- React 18 with TypeScript
+- Redux for state management
+- React Query for API caching
+- Hosted on CloudFront CDN
+
+**Build Process:**
+- Vite (development)
+- Webpack (production)
+
+---
+
+## Backend
+
+- Node.js 20 with Express framework
+
+**Microservices:**
+- API service
+- Webhook service
+- Notification service
+- File processing service
+
+**Communication:**
+- RabbitMQ message queue
+
+**Deployment:**
+- ECS Fargate
+
+---
+
+## Database
+
+- PostgreSQL 15 (RDS) for primary data
+- Redis for session storage and caching
+- Elasticsearch for full-text search
+
+**Backups:**
+- Daily automated backups
+- Retained for 30 days
+
+---
+
+## Infrastructure
+
+**AWS Services:**
+- Application Load Balancer
+- ECS
+- RDS
+- ElastiCache
+- S3
+- CloudFront
+
+**Monitoring:**
+- DataDog (metrics)
+- Sentry (error tracking)
+
+**CI/CD:**
+- GitHub Actions
+- ArgoCD
+
+**Infrastructure as Code:**
+- Terraform

@@ -1,0 +1,25 @@
+# Reporting & Analytics Guide
+
+## Available Reports
+
+The platform offers five different types of reports to track team performance and project metrics.
+
+The Burndown Chart report allows users to track sprint progress and predict when work will be completed based on current velocity.
+
+The Velocity Report enables teams to measure their output over time by tracking how much work is completed in each sprint or time period.
+
+The Cycle Time report calculates the average time it takes for tasks to move from start to completion, helping identify bottlenecks in the workflow.
+
+The Task Distribution report provides visibility into workload allocation by showing which team members are working on which tasks at any given time.
+
+The Completion Rate report displays the percentage of tasks that are completed on time versus those that miss their deadlines, providing insight into team reliability and planning accuracy.
+
+*(Table converted to descriptive text)*
+
+## Creating Custom Reports
+
+Pro and Enterprise users can create custom reports by following a four-step process. First, users navigate to Reports and then select Custom from the menu. Second, they choose the specific metrics and dimensions they want to include in their custom report. Third, they apply filters to narrow down the data to their specific needs. Fourth, they save the custom report configuration and can schedule automatic email delivery of the report on a recurring basis.
+
+## Exporting Data
+
+Export reports as CSV, Excel, or PDF. Exports include raw data and charts. API access allows programmatic data extraction for custom dashboards.

@@ -1,0 +1,39 @@
+# Keyboard Shortcuts & Tips
+
+## Keyboard Shortcuts
+
+Boost your productivity with these shortcuts. Press '?' in the app to see this list.
+
+This keyboard shortcuts reference guide covers 12 essential shortcuts for task management, navigation, and quick actions, ranging from single-key commands to modifier combinations that boost productivity in the application.
+
+The keyboard shortcut "C" performs the action to create a new task in the application.
+
+The keyboard shortcut "/" (forward slash) performs the action to focus the search bar for quick searching.
+
+The keyboard shortcut "?" (question mark) performs the action to show the keyboard shortcuts help dialog.
+
+The keyboard shortcut "G then P" (pressing G followed by P) performs the action to navigate to the projects view.
+
+The keyboard shortcut "G then T" (pressing G followed by T) performs the action to navigate to the tasks view.
+
+The keyboard shortcut "E" performs the action to edit the current task that is selected or in focus.
+
+The keyboard shortcut "Cmd/Ctrl + K" (Command+K on Mac or Control+K on Windows/Linux) performs the action to open the quick command palette.
+
+The keyboard shortcut "Cmd/Ctrl + Enter" (Command+Enter on Mac or Control+Enter on Windows/Linux) performs the action to save and close the current modal or editing view.
+
+The keyboard shortcut "Esc" (Escape key) performs the action to close any open modal or dialog window.
+
+The keyboard shortcut "J / K" (pressing J or K) performs the action to navigate down or up respectively in lists for keyboard-only navigation.
+
+The keyboard shortcut "X" performs the action to select a task for bulk actions, allowing multiple tasks to be selected and operated on simultaneously.
+
+*(Table converted to descriptive text)*
+
+## Pro Tips
+
+Chain commands: 'G then P then C' = Go to projects and create new
+
+Use Command Palette (Cmd/Ctrl + K) to search all actions
+
+Customize shortcuts in Settings → Keyboard

@@ -1,0 +1,23 @@
+# Engineering Team Structure
+
+**Updated:** January 2024
+
+## Team Overview
+
+The Engineering team consists of 18 people across 4 sub-teams: Frontend, Backend, Mobile, and Platform/DevOps. We work in 2-week sprints with sprint planning on Mondays and demos/retros on Fridays.
+
+The Engineering team is organized into four sub-teams—Frontend, Backend, Mobile, and Platform—with the Backend team being the largest at 6 members and the Frontend team having 5 members, while both Mobile and Platform teams each have 3 members.
+
+The Frontend team is led by Alex Chen and has 5 members who focus on the React app, UI components, and state management.
+
+The Backend team is led by Jordan Kim and has 6 members who focus on API development, database management, integrations, and webhooks.
+
+The Mobile team is led by Sam Patel and has 3 members who focus on iOS and Android apps.
+
+The Platform team is led by Taylor Johnson and has 3 members who focus on infrastructure, CI/CD, monitoring, and security.
+
+*(Table converted to descriptive text)*
+
+## Cross-Team Collaboration
+
+Teams collaborate through weekly syncs, shared Slack channels, and quarterly planning sessions. Major features require representatives from all teams in the kickoff.

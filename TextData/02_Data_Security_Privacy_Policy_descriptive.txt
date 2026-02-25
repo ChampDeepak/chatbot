@@ -1,0 +1,144 @@
+# Data Security & Privacy Policy
+
+**Policy Number:** SEC-2024-001 | **Last Updated:** March 2024
+**Applies to:** All ClearPath Employees, Contractors, and Third-Party Partners
+
+## Purpose and Scope
+
+This Data Security and Privacy Policy establishes requirements for protecting ClearPath and customer data. All employees, contractors, and third-party partners with access to ClearPath systems must comply with this policy. Violations may result in disciplinary action up to and including termination and legal action.
+
+ClearPath is committed to maintaining the confidentiality, integrity, and availability of all information assets. We comply with GDPR, CCPA, SOC 2 Type II, and other applicable data protection regulations.
+
+## 1. Data Classification
+
+ClearPath classifies all data into three categories based on sensitivity. Appropriate handling procedures must be followed for each classification level:
+
+ClearPath's data classification system includes three sensitivity levels—Public, Internal, and Confidential—each with distinct handling requirements ranging from unrestricted sharing to encryption and access approval.
+
+Public data classification at ClearPath includes information intended for public consumption such as marketing materials, blog posts, published documentation, and press releases, with no special handling required and the ability to be shared freely.
+
+Internal data classification at ClearPath covers information for internal use only including business plans, internal memos, employee directory, meeting notes, and roadmaps, which should be shared only with ClearPath employees and must not be posted publicly.
+
+Confidential data classification at ClearPath applies to highly sensitive information requiring protection such as customer data, personally identifiable information (PII), source code, financial records, security credentials, and API keys, which must be encrypted at rest and in transit with access requiring approval.
+
+*(Table converted to descriptive text)*
+
+## 2. Access Control
+
+**Password Requirements:** All work accounts must use strong passwords meeting these minimum requirements:
+• Minimum 12 characters in length
+• Include uppercase letters, lowercase letters, numbers, and symbols
+• Cannot be a previously used password
+• Cannot contain common dictionary words or personal information
+• Must be changed every 90 days for accounts accessing confidential data
+• Never share passwords or write them down
+
+**Multi-Factor Authentication (MFA):** MFA is required for:
+• All email accounts (Google Workspace)
+• GitHub and code repositories
+• AWS and cloud infrastructure
+• Admin panels and production systems
+• VPN access
+• Any system containing confidential data
+
+Use Google Authenticator, 1Password, or hardware security keys (YubiKey). SMS-based MFA is not permitted for production systems due to security risks.
+
+**Access Provisioning:** Access to systems and data follows the principle of least privilege:
+• New employees receive baseline access on day 1 (email, Slack, HR systems)
+• Additional access requires manager approval via the IT ticketing system
+• Access to confidential data requires documented business need and security training
+• Access is reviewed quarterly; unused access is automatically revoked
+• Upon termination, all access is revoked within 1 hour
+
+## 3. Data Handling and Storage
+
+**Approved Tools and Services:** Use only company-approved tools for storing and sharing data:
+
+ClearPath's approved tools policy covers five categories of business operations—documents, code, passwords, communication, and customer data—with specific approved and prohibited tools for each purpose to ensure data security.
+
+For documents and files at ClearPath, the approved tools are Google Drive and Notion, while prohibited tools include Dropbox, personal drives, and email attachments exceeding 10MB in size.
+
+For code and repositories at ClearPath, the approved tool is GitHub (company organization only), while prohibited tools include personal GitHub accounts, GitLab, BitBucket, and USB drives.
+
+For password management at ClearPath, the approved tool is LastPass (company account), while prohibited tools include browser password managers, plain text files, and shared documents.
+
+For communication at ClearPath, the approved tools are Slack, Google Meet, and Email, while prohibited tools include WhatsApp, Telegram, and personal email for work purposes.
+
+For customer data at ClearPath, the approved tools are production databases and Zendesk, while prohibited storage methods include local downloads, personal machines, and development environments.
+
+*(Table converted to descriptive text)*
+
+**Encryption Requirements:**
+• All laptops must have full-disk encryption enabled (BitLocker for Windows, FileVault for Mac)
+• Confidential data in transit must use TLS 1.2 or higher
+• Confidential data at rest must use AES-256 encryption
+• USB drives containing work data must be encrypted (use company-issued encrypted drives)
+
+**Personal Devices:** Confidential data must never be:
+• Stored on personal computers, phones, or tablets
+• Sent to personal email accounts
+• Accessed from public computers (libraries, internet cafes)
+• Stored on unauthorized cloud services (personal Dropbox, iCloud, etc.)
+
+If you need to work from a personal device temporarily, contact IT for approved remote access solutions (VPN with MFA).
+
+## 4. Data Retention and Disposal
+
+ClearPath maintains data only as long as necessary for business or legal requirements:
+• Employee records: 7 years after termination
+• Financial records: 7 years after fiscal year end
+• Customer data: Per customer contract terms (typically duration of service + 30 days)
+• Email: 2 years (auto-archived)
+• Slack messages: 1 year
+
+**Secure Disposal:** When disposing of data or equipment:
+• Use secure file deletion tools (not just 'delete' or trash)
+• Old hard drives must be physically destroyed by IT (certificate of destruction provided)
+• Printed confidential documents must be shredded (shredders available in all offices)
+• Return all company devices to IT for proper wiping
+
+## 5. Security Incident Reporting
+
+Report security incidents immediately to security@clearpath.io. Do not attempt to investigate yourself. Examples of reportable incidents:
+• Lost or stolen laptop, phone, or other device containing work data
+• Suspicious emails (phishing attempts, unexpected attachments)
+• Unauthorized access to systems or data
+• Accidental data exposure (sent to wrong recipient, posted publicly, etc.)
+• Compromised credentials (password leaked, account hacked)
+• Malware or ransomware infections
+• Suspicious activity in logs or alerts
+
+ClearPath's security incident severity classification system defines four levels—Critical, High, Medium, and Low—with response times ranging from 1 hour for critical incidents to 3 business days for low-severity issues, ensuring rapid response to active breaches while appropriately triaging less urgent security concerns.
+
+Critical severity incidents at ClearPath are defined as active breaches or data exposures, require a response time of 1 hour, with an example being a customer database that has become publicly accessible.
+
+High severity incidents at ClearPath are defined as potential breaches or serious vulnerabilities, require a response time of 4 hours, with an example being a phishing email that resulted in stolen credentials.
+
+Medium severity incidents at ClearPath are defined as security concerns without immediate risk, require a response time of 1 business day, with an example being a lost unencrypted laptop.
+
+Low severity incidents at ClearPath are defined as minor issues or questions, require a response time of 3 business days, with an example being a suspicious but benign email.
+
+*(Table converted to descriptive text)*
+
+## 6. Security Training
+
+All employees must complete:
+• General security awareness training within first 30 days of employment
+• Annual refresher training every January
+• Phishing simulation tests (quarterly)
+• Role-specific training for employees accessing confidential data
+
+Training is delivered through KnowBe4 and tracked in BambooHR. Completion is mandatory and affects performance reviews.
+
+## 7. Compliance and Audits
+
+ClearPath undergoes annual SOC 2 Type II audits. Employees may be asked to provide documentation or participate in interviews as part of these audits. Internal security audits occur quarterly.
+
+Access logs, security events, and policy compliance are monitored continuously. Violations are investigated and may result in disciplinary action.
+
+## Questions and Support
+
+For questions about this policy, contact:
+• Security incidents: security@clearpath.io (monitored 24/7)
+• Policy questions: security-team@clearpath.io
+• Access requests: it@clearpath.io

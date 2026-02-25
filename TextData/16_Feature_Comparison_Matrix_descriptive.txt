@@ -1,0 +1,29 @@
+# Feature Comparison Matrix
+
+## Feature Comparison Matrix
+
+The Feature Comparison Matrix compares three pricing tiers—Free, Pro, and Enterprise—across 11 different features, with the Enterprise plan offering the most comprehensive capabilities including unlimited users, custom storage, SSO, 24/7 priority support, and a 99.9% SLA guarantee.
+
+The Users feature allows up to 5 users on the Free plan, up to 25 users on the Pro plan, and unlimited users on the Enterprise plan.
+
+The Projects feature provides unlimited projects on the Free plan, unlimited projects on the Pro plan, and unlimited projects on the Enterprise plan.
+
+The Storage feature offers 500MB of storage on the Free plan, 50GB of storage on the Pro plan, and custom storage options on the Enterprise plan.
+
+The Tasks per project feature limits users to 100 tasks per project on the Free plan, while providing unlimited tasks per project on the Pro plan and unlimited tasks per project on the Enterprise plan.
+
+The Integrations feature includes basic integrations with 5 available options on the Free plan, all integrations with over 50 available options on the Pro plan, and all integrations plus custom integration capabilities on the Enterprise plan.
+
+The API Access feature is not available on the Free plan, but is available on both the Pro plan and the Enterprise plan.
+
+The Advanced Reports feature is not available on the Free plan, but is available on both the Pro plan and the Enterprise plan.
+
+The Custom Workflows feature is not available on the Free plan, offers limited custom workflow capabilities on the Pro plan, and provides unlimited custom workflows on the Enterprise plan.
+
+The SSO (Single Sign-On) feature is not available on the Free plan, not available on the Pro plan, but is available on the Enterprise plan.
+
+The Priority Support feature is not available on the Free plan, is available on the Pro plan, and is available with 24/7 coverage on the Enterprise plan.
+
+The SLA (Service Level Agreement) feature provides no SLA guarantee on the Free plan, no SLA guarantee on the Pro plan, and a 99.9% uptime SLA guarantee on the Enterprise plan.
+
+*(Table converted to descriptive text)*

@@ -1,0 +1,133 @@
+# Release Notes – Version History
+
+This document outlines the major releases of ClearPath, highlighting new features, performance improvements, bug fixes, and important breaking changes across recent versions.
+
+---
+
+## Version 3.2.0  
+**Release Date:** October 15, 2024  
+
+### Overview
+Version 3.2.0 focuses on productivity enhancements, performance optimizations, and improved customization capabilities. This release significantly improves search speed and API responsiveness while introducing powerful bulk-editing and filtering features.
+
+### New Features
+
+- **Advanced Filtering with Saved Presets**  
+  Users can now create complex filters and save them for repeated use, improving workflow efficiency across projects.
+
+- **Bulk Task Editing**  
+  Multiple tasks can now be edited simultaneously, allowing faster updates to assignees, due dates, priorities, and more.
+
+- **Custom Field Support**  
+  Projects now support customizable fields including:
+  - Text
+  - Number
+  - Date
+  - Dropdown selections  
+  This enables teams to tailor task metadata to their unique processes.
+
+- **Improved Mobile App Performance**  
+  The mobile experience has been optimized for faster load times and smoother interactions.
+
+### Improvements
+
+- **Search Performance Increased by 3×**  
+  Backend search optimizations significantly reduce query response time.
+
+- **40% Faster API Response Times**  
+  API endpoints have been optimized for lower latency and improved scalability.
+
+- **Enhanced Error Messages**  
+  Error responses now provide clearer, more actionable information.
+
+### Bug Fixes
+
+- Fixed an issue where task assignee notifications were not consistently delivered.
+- Resolved synchronization delays in the GitHub integration.
+
+---
+
+## Version 3.1.0  
+**Release Date:** August 1, 2024  
+
+### Overview
+Version 3.1.0 introduces advanced project planning capabilities and interface improvements designed to enhance visibility and task coordination.
+
+### New Features
+
+- **Timeline View with Drag-and-Drop**  
+  A new interactive timeline view allows users to visually manage task scheduling and adjust deadlines dynamically.
+
+- **Dependency Tracking Between Tasks**  
+  Tasks can now be linked with dependencies to ensure accurate sequencing and planning.
+
+- **Gantt Chart Export**  
+  Project timelines can be exported for reporting and external sharing.
+
+- **Recurring Tasks**  
+  Users can automate repeating tasks on a defined schedule.
+
+### Improvements
+
+- Redesigned task detail modal for improved usability and clarity.
+- Keyboard shortcuts are now supported consistently across all views.
+
+---
+
+## Version 3.0.0  
+**Release Date:** May 20, 2024  
+
+### Overview
+Version 3.0.0 represents a major milestone release featuring a complete UI overhaul, workflow customization, and enhanced access control.
+
+### New Features
+
+- **Complete UI Redesign**  
+  A modernized interface improves usability, accessibility, and visual consistency.
+
+- **Customizable Workflows**  
+  Teams can define custom task stages and workflow transitions.
+
+- **Advanced Permissions System**  
+  Granular role-based permissions allow tighter access control.
+
+- **Time Tracking Integration**  
+  Built-in time tracking allows better project estimation and reporting.
+
+### Breaking Changes
+
+- **API v1 Deprecated**  
+  Users must migrate to API v2 for continued support and compatibility.
+
+- **Legacy Mobile Apps Unsupported**  
+  Older versions of the mobile application are no longer compatible with this release.
+
+---
+
+## Version 2.8.0  
+**Release Date:** March 15, 2024  
+
+### Overview
+Version 2.8.0 focuses on collaboration improvements and dashboard customization.
+
+### New Features
+
+- **Slack Integration v2**  
+  Enhanced Slack integration for improved notifications and workflow automation.
+
+- **Custom Dashboards**  
+  Users can now build personalized dashboards tailored to their project needs.
+
+- **Export to Excel/CSV**  
+  Task and project data can be exported for reporting and analysis.
+
+### Improvements
+
+- Faster page load performance.
+- Improved mobile responsiveness for smaller devices.
+
+---
+
+## Summary
+
+Across versions 2.8.0 through 3.2.0, ClearPath has significantly improved performance, introduced advanced workflow management tools, enhanced integrations, and modernized the user interface while maintaining strong API evolution toward version 2.

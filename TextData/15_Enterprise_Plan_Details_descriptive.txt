@@ -1,0 +1,111 @@
+# Enterprise Plan Details
+
+## Enterprise Plan Details
+
+### For Teams of 25+ Users
+
+## Why Enterprise?
+
+ClearPath Enterprise is designed for large organizations that need advanced security, dedicated support, and enterprise-grade reliability. Our Enterprise plan includes everything in Pro plus additional features for compliance, customization, and scale.
+
+## Enterprise-Exclusive Features
+
+The Enterprise-Exclusive Features table covers five major categories—Security & Compliance, Administration, Customization, Support & SLA, and Onboarding—providing comprehensive capabilities for large organizations with 25 or more users.
+
+The Security & Compliance category in ClearPath Enterprise includes Single Sign-On supporting both SAML 2.0 and OAuth 2.0 protocols, advanced audit logs with 2-year retention, IP whitelisting and geo-restrictions, session management and forced logouts, data residency options across US, EU, and APAC regions, and SOC 2 Type II compliance reports.
+
+The Administration category in ClearPath Enterprise includes advanced role-based access control (RBAC), custom user roles and permissions, bulk user provisioning and deprovisioning, SCIM integration for user management, and centralized billing across workspaces.
+
+The Customization category in ClearPath Enterprise includes unlimited custom workflows, unlimited custom fields, white-label options with custom domain and logo support, API rate limits of 10,000 requests per hour, and webhook retries with custom retry logic.
+
+The Support & SLA category in ClearPath Enterprise includes a 99.9% uptime SLA with credits, a dedicated Customer Success Manager, 24/7 priority support via phone, email, and chat, 1-hour response time for critical issues, quarterly business reviews, and direct access to engineering for escalations.
+
+The Onboarding category in ClearPath Enterprise includes a dedicated onboarding specialist, custom implementation plan, live training sessions for admins and users, free migration from existing tools, and post-launch check-ins at 30, 60, and 90 days.
+
+*(Table converted to descriptive text)*
+
+## Pricing
+
+Enterprise pricing is customized based on your team size, feature requirements, and contract length. Minimum commitment is 12 months. Typical starting price is $2,500/month for teams of 50-100 users.
+
+### Pricing Factors:
+
+The pricing factors that determine Enterprise plan costs include the number of users (billed annually per user), storage requirements (500GB included with additional storage at $0.10 per GB per month), data residency requirements, support level (standard Enterprise or Premium Enterprise), and custom feature development needs.
+
+For context, our Pro plan is $45/month for teams up to 25 users. Enterprise pricing typically ranges from $50-150 per user per year depending on volume and features selected.
+
+## Contract Terms
+
+### Contract Length: 
+
+Minimum 12-month commitment. Discounts available for 24-month contracts at 10% discount and 36-month contracts at 20% discount.
+
+### Payment Terms: 
+
+Annual prepayment (most common) or quarterly invoicing available. NET 30 payment terms for invoices. ACH, wire transfer, or credit card accepted.
+
+### Renewal: 
+
+Contracts auto-renew unless notice is provided 60 days before renewal date. Pricing is locked for contract duration; renewal pricing may increase based on CPI or 5% annually, whichever is less.
+
+## Security & Compliance
+
+ClearPath Enterprise meets the security and compliance requirements of Fortune 500 companies:
+
+ClearPath Enterprise holds SOC 2 Type II certification with annual audits and reports available under NDA.
+
+ClearPath Enterprise is GDPR Compliant with Data Processing Agreements (DPA) available for customers requiring EU data protection.
+
+ClearPath Enterprise is CCPA Compliant, supporting California privacy rights for applicable customers.
+
+ClearPath Enterprise offers HIPAA compliance with Business Associate Agreements available for healthcare customers requiring protected health information security.
+
+ClearPath Enterprise has ISO 27001 certification in progress with expected completion in Q2 2024.
+
+ClearPath Enterprise conducts annual third-party penetration testing security assessments to ensure platform security.
+
+### Data Encryption: 
+
+AES-256 at rest, TLS 1.3 in transit. Customer-managed encryption keys available for Premium Enterprise customers.
+
+## Migration Support
+
+Our team handles your migration from start to finish at no additional cost:
+
+The Discovery phase (Week 1) of the ClearPath Enterprise migration process involves auditing your current tools and data structure to understand the migration scope.
+
+The Planning phase (Week 2) of the ClearPath Enterprise migration process involves creating a detailed migration plan and timeline for the complete transition.
+
+The Data Mapping phase (Week 3) of the ClearPath Enterprise migration process involves mapping fields, workflows, and integrations from your existing system to ClearPath.
+
+The Test Migration phase (Week 4) of the ClearPath Enterprise migration process involves migrating a subset of data to a staging environment for validation and testing.
+
+The Full Migration phase (Week 5-6) of the ClearPath Enterprise migration process involves completing the data migration during an agreed maintenance window to minimize disruption.
+
+The Validation phase (Week 7) of the ClearPath Enterprise migration process involves verifying data integrity and conducting user acceptance testing to ensure migration success.
+
+Average migration timeline: 6-8 weeks. We support migrations from Jira, Asana, Monday.com, Trello, Basecamp, and most other project management tools. Custom migrations from proprietary systems available.
+
+## Success Metrics
+
+Our Enterprise customers see measurable results:
+
+ClearPath Enterprise customers experience a 40% reduction in project planning time after implementing the platform.
+
+ClearPath Enterprise customers experience a 60% improvement in cross-team visibility after implementing the platform.
+
+ClearPath Enterprise customers experience a 25% increase in on-time project delivery after implementing the platform.
+
+ClearPath Enterprise customers achieve 98% user adoption within 90 days of implementation.
+
+## Get Started
+
+Ready to explore Enterprise? Contact our sales team:
+
+To get started with ClearPath Enterprise, email the sales team at enterprise@clearpath.io.
+
+To get started with ClearPath Enterprise, call the sales team at 1-888-555-0123.
+
+To get started with ClearPath Enterprise, schedule a demo at clearpath.io/enterprise-demo.
+
+We'll schedule a discovery call to understand your needs and provide a custom quote within 2 business days.

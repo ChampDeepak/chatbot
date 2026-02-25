@@ -1,0 +1,25 @@
+# Support SLA & Response Times
+
+## Support SLA & Response Times
+
+## Support Channels
+
+ClearPath provides multiple support channels to assist customers with their needs. Email support is available at support@clearpath.io for all inquiries and issues. Chat support is available in-app from 9 AM to 6 PM EST, Monday through Friday, for real-time assistance. Customers can access self-service resources through the Help Center at help.clearpath.io. The Community Forum is accessible at community.clearpath.io where users can connect with other ClearPath customers and share knowledge.
+
+## Response Time SLAs
+
+ClearPath offers tiered support response times based on subscription level (Free, Pro, and Enterprise) and issue priority, with the fastest response time being 1 hour for Enterprise critical issues and the longest being 72 hours for Free tier low-priority requests.
+
+For Critical priority issues where the service is completely down, Free tier customers receive best effort support with no guaranteed response time, Pro tier customers receive a response within 4 hours, and Enterprise tier customers receive a response within 1 hour.
+
+For High priority issues where a major feature is broken, Free tier customers receive best effort support with no guaranteed response time, Pro tier customers receive a response within 8 hours, and Enterprise tier customers receive a response within 4 hours.
+
+For Medium priority issues involving minor problems, Free tier customers receive a response within 48 hours, Pro tier customers receive a response within 24 hours, and Enterprise tier customers receive a response within 8 hours.
+
+For Low priority issues such as general questions or feature requests, Free tier customers receive a response within 72 hours, Pro tier customers receive a response within 48 hours, and Enterprise tier customers receive a response within 24 hours.
+
+*(Table converted to descriptive text)*
+
+## Enterprise Support
+
+Enterprise customers get 24/7 support via phone, email, and chat. Dedicated account manager. Quarterly business reviews. Custom onboarding and training.
