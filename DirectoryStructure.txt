@@ -1,0 +1,49 @@
+/home/deepak/Desktop/chatbot/
+|---.venv
+|---.gitignore
+|---.env
+├── chroma_db/
+│   ├── chroma.sqlite3
+│   └── f1e9247a-dc55-44ae-9418-476050c3b3e9/
+├── src/
+│   ├── Chunk.py
+│   ├── Embedder.py
+│   ├── Evaluator.py
+│   ├── Ingest.py
+│   ├── RAG.py
+│   ├── Retriever.py
+│   ├── Router.py
+│   ├── Test.py
+│   ├── VectorDB.py
+│   └── __pycache__/
+└── TextData/
+    ├── 01_Employee_Handbook_2024_descriptive.txt
+    ├── 02_Data_Security_Privacy_Policy_descriptive.txt
+    ├── 03_Remote_Work_Guidelines_descriptive.txt
+    ├── 04_Code_of_Conduct_descriptive.txt
+    ├── 05_PTO_Leave_Policy_descriptive.txt
+    ├── 06_ClearPath_User_Guide_v3.2_descriptive.txt
+    ├── 07_Getting_Started_Guide_descriptive.txt
+    ├── 08_Advanced_Features_Overview_descriptive.txt
+    ├── 09_Integrations_Catalog_descriptive.txt
+    ├── 10_Mobile_App_Guide_descriptive.txt
+    ├── 11_Keyboard_Shortcuts_descriptive.txt
+    ├── 12_Custom_Workflows_Tutorial_descriptive.txt
+    ├── 13_Reporting_Analytics_Guide_descriptive.txt
+    ├── 14_Pricing_Sheet_2024_descriptive.txt
+    ├── 15_Enterprise_Plan_Details_descriptive.txt
+    ├── 16_Feature_Comparison_Matrix_descriptive.txt
+    ├── 17_FAQ_Common_Questions_descriptive.txt
+    ├── 18_Onboarding_Checklist_descriptive.txt
+    ├── 19_Support_SLA_Response_Times_descriptive.txt
+    ├── 20_Troubleshooting_Guide_descriptive.txt
+    ├── 21_Account_Management_FAQ_descriptive.txt
+    ├── 22_Q4_2023_Team_Retrospective_descriptive.txt
+    ├── 23_Engineering_Team_Structure_descriptive.txt
+    ├── 24_Weekly_Standup_Notes_Dec2023_descriptive.txt
+    ├── 25_Product_Roadmap_2024_descriptive.txt
+    ├── 26_API_Documentation_v2.1.txt
+    ├── 27_Webhook_Integration_Guide.txt
+    ├── 28_System_Architecture_Overview.txt
+    ├── 29_Deployment_Infrastructure_Guide.txt
+    └── 30_Release_Notes_Version_History.txt
